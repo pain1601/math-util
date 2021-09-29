@@ -12,4 +12,4 @@ to manage the content of this repository.
  ### Screen shot
 ![JUnit with TDD](https://github.com/trinity-fptu/math-util/blob/main/images/math-util-intro.png)
 
-© 2021 trinity | fb/phamtrongtai1601
+#### © 2021 trinity | fb/phamtrongtai1601
