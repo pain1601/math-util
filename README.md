@@ -1,3 +1,5 @@
+[![Math-Util with CI | © 2021 by trinity](https://github.com/trinity-fptu/math-util/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/trinity-fptu/math-util/actions/workflows/math-util-ci.yml)
+
 # Welcom to Math-Util Repository
 
 ### You will find in this repository the following stuff:
